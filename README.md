@@ -1,4 +1,7 @@
-# api documentation for  [holderjs (v2.9.4)](http://holderjs.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-holderjs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-holderjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-holderjs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-holderjs)
+# npmdoc-holderjs
+
+#### basic api documentation for  [holderjs (v2.9.4)](http://holderjs.com)  [![npm package](https://img.shields.io/npm/v/npmdoc-holderjs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-holderjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-holderjs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-holderjs)
+
 #### Holder uses SVG to render image placeholders entirely in browser.
 
 [![NPM](https://nodei.co/npm/holderjs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/holderjs)
@@ -81,7 +84,8 @@
         "test": "node test/index"
     },
     "summary": "client side image placeholders",
-    "version": "2.9.4"
+    "version": "2.9.4",
+    "bin": {}
 }
 ```
 
